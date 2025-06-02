@@ -1,8 +1,11 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Procrastination log
+description: Ryan's wasted time lol
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://rshi07.github.io/the-stuff-i-do-instead-of-work/
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Template Repository: https://github.com/rshi07/the-stuff-i-do-instead-of-work/
+
+plugins:
+  - jekyll-default-layout
