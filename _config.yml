@@ -1,11 +1,11 @@
-title: Procrastination log
-description: Ryan's wasted time lol
+title: Time Waster
+description: Ryan's wasted time 
 theme: just-the-docs
 
 url: https://rshi07.github.io/the-stuff-i-do-instead-of-work/
 
 aux_links:
-  Template Repository: https://github.com/rshi07/the-stuff-i-do-instead-of-work/
+  source: https://github.com/rshi07/the-stuff-i-do-instead-of-work/
 
 plugins:
   - jekyll-default-layout
